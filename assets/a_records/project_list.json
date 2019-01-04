@@ -1,0 +1,43 @@
+[
+    {
+        "year" : "2018", 
+        "duration" : "Jan'2018-Present",
+        "client" : "J.B HUNT",
+        "name" : "JBH-Opex", 
+        "desc" : "I am working in an Agile environment and I was a part of Integration Team for first two sprints and afterwards I have been the part of development team where we used Angular and Spring technology to build the web application.",
+        "tool1" : "Spring Boot",
+        "tool2" : "Angular 5",
+        "tool3" : "Postman" 
+    },
+    
+    {
+        "year" : "2017",
+        "duration" : "Jan'17-Apr'17",
+        "client" : "Retailers",
+        "name" : "Predicting Customer Satisfaction for Revenue",
+        "desc" : "Developed a Web based application which predicts customer satisfaction using WEKA Tool and help retailers to increase in their revenue.",
+        "tool1" : "WEKA",
+        "tool2" : "JSP",
+        "tool3" : "MySQL"
+    },
+
+    {
+        "year" : "2016",
+        "duration" : "Jan'16-Apr'16",
+        "client" : "Transport Associations",
+        "name" : "Ticket Reservation Management System",
+        "desc" : "Developed a Web based ticket reservation system,which shows the availability of seats in numbers as well as in percentage and the user can find the routes and cancel his tickets also.",
+        "tool1" : "JSP",
+        "tool2" : "MySQL"
+    },
+
+    {
+        "year" : "2015",
+        "duration": "May'15-Jun'15",
+        "client" : "COCE",
+        "name" : "SMS",
+        "desc" : "Developed a web based Student Management System which observes the student data and the authorized user can able to update,edit or delete the required records.",
+        "tool1" : "JSP",
+        "tool2" : "MySQL"
+    }
+]

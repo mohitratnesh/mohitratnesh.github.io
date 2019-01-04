@@ -1,0 +1,7 @@
+[
+    {"activity" : "music", "type1" : "Pop", "type2" : "Indie", "type3" : "EDM"},
+    {"activity" : "computer game", "type1" : "Sports", "type2" : "Action", "type3" : "Racing"},
+    {"activity" : "sports", "type1" : "Football", "type2" : "Cricket", "type3" : "WWE"},
+    {"activity" : "technology", "type1" : "Digit.in", "type2" : "Verge", "type3" : "YouTube"},
+    {"activity" : "exploring cosmos"}
+]
