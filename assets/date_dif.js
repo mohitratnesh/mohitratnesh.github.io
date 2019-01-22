@@ -14,7 +14,7 @@ today = new Date()
                         message += " is "
                         //message += days + " days " 
                         message += months + " months or "
-                        message += years + " years \n"
+                        message += Math.round(years*100)/100 + " years \n"
                     
                         return message
                         }
