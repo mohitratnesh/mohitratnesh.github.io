@@ -1,10 +1,10 @@
 [
     {
-        "year" : "2018 - 2019", 
+        "year" : "2018 - 2020", 
         "duration" : "Jan'2018-Present",
         "client" : "J.B HUNT",
         "name" : "JBH-Opex", 
-        "desc" : "I am working in an Agile environment and I was a part of Integration Team for first two sprints and afterwards I have been the part of development team where we used Angular and Spring technology to build the web application.",
+        "desc" : "I am working in an Agile environment and I was a part of Integration Team for first two sprints and afterwards I have been the part of development team where we used Angular and Spring technology to build the web application. My role is to develop UI Stories as per the client requirments and as per the UX documentation.",
         "tool1" : "Spring Boot",
         "tool2" : "Angular 5",
         "tool3" : "Postman" 
